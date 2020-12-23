@@ -1,0 +1,3 @@
+#!/bin
+sleep 5s
+mpv analog.wav

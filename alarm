@@ -1,0 +1,12 @@
+#!/bin/bash
+sleep $1
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
+mpv analog.wav
